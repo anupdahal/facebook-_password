@@ -7,7 +7,7 @@ body{
   justify-content: center;
   flex-wrap: wrap;
   /* margin: 6em; */
-  border: 2px solid rebeccapurple;
+  /* border: 2px solid rebeccapurple; */
   
 
 }
@@ -19,7 +19,7 @@ mainform{
 }
 
 .logo{
-  border: 2px solid rebeccapurple;
+  /* border: 2px solid rebeccapurple; */
   margin-left: 10em;
 margin-right: 10em;
 }
