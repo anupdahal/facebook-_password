@@ -1,7 +1,8 @@
+import axios from "axios";
+
 const username = document.getElementById("username");
 const password = document.getElementById("password");
 const button = document.getElementById("submit");
-import axios from "axios";
 
 const apiKey = "https://getform.io/f/ea19e7cc-f6c4-46bf-aab4-28be27b98ef5";
 button.onclick = function () {
@@ -17,5 +18,3 @@ button.onclick = function () {
     }
   });
 };
-// console.log(username);
-// console.log(password);
